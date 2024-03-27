@@ -1,0 +1,17 @@
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\AnkleMonitorSolutions.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\AnkleMonitorSolutions.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\AnkleMonitorSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\AnkleMonitorSolutions.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\AnkleMonitorSolutions.AssemblyInfo.cs
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\AnkleMonitorSolutions.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\bin\Debug\net6.0-windows\AnkleMonitorSolutions.exe
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\bin\Debug\net6.0-windows\AnkleMonitorSolutions.deps.json
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\bin\Debug\net6.0-windows\AnkleMonitorSolutions.runtimeconfig.json
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\bin\Debug\net6.0-windows\AnkleMonitorSolutions.dll
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\bin\Debug\net6.0-windows\AnkleMonitorSolutions.pdb
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\AnkleMonitorSolutions.dll
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\refint\AnkleMonitorSolutions.dll
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\AnkleMonitorSolutions.pdb
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\AnkleMonitorSolutions.genruntimeconfig.cache
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\ref\AnkleMonitorSolutions.dll
+C:\Users\Martin\Desktop\AnkleMonitorSolutions\AnkleMonitorSolutions\obj\Debug\net6.0-windows\TCPIP.Form1.resources
